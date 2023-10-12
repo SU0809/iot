@@ -1,2 +1,2 @@
 # iot
-app development usin iot and python
+app development using iot and python
